@@ -1,0 +1,113 @@
+.map {
+  position:relative;
+  margin-top:10%;
+}
+
+.world {
+  width:100%;
+}
+
+.legend{
+  width:15vw;
+  height:17vw;
+  position:absolute;
+  top:60%;
+  left:1%;
+  border: 2px solid black;
+  background-color:lightgray;
+}
+
+.legend p{
+  padding-left:5vw;
+  font-size:1.5vw;
+  margin:0;
+}
+
+.red {
+  width: 3vw;
+  height: 3vw;
+  border:2px solid black;
+  background-color:red;
+  margin-top:5%;
+  margin-left:5%;
+}
+
+.yellow {
+  width: 3vw;
+  height: 3vw;
+  border:2px solid black;
+  background-color:yellow;
+  margin-top:5%;
+  margin-left:5%;
+}
+
+.purple {
+  width: 3vw;
+  height: 3vw;
+  border:2px solid black;
+  background-color:purple;
+  margin-top:5%;
+  margin-left:5%;
+}
+
+.destinations {
+  position:absolute;
+  width: 7vw;
+}
+
+.destinations img{
+  width:7vw;
+}
+
+.name {
+  width:100%;
+  position:absolute;
+  top:0;
+  font-size:1.1vw;
+  font-family:helvetica, sans-serif;
+}
+
+.name p{
+  text-align:center;
+}
+
+
+.sweden {
+  top:-9%;
+  left:47.5%;
+}
+
+.taipei {
+  top:14.1%;
+  left:76.2%;
+}
+
+.barcelona{
+  top:3%;
+  left:43%;
+}
+
+.patagonia{
+  top:70%;
+  left:28%;
+}
+
+.machu-picchu{
+  top:43%;
+  left:24%
+}
+
+.madagascar{
+  top:45%;
+  left:57%;
+}
+
+.new-zealand{
+  top:60%;
+  left:88.5%;
+}
+
+.toronto{
+  top:2%;
+  left:22%;
+}
